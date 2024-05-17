@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MuhmadOmarHajHamdo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MuhmadOmarHajHamdo.bundle.scp.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "R:\\NewProjects\\RiderProjects\\MuhmadOmarHajHamdo\\MuhmadOmarHajHamdo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MuhmadOmarHajHamdo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MuhmadOmarHajHamdo.props",
+      "PackagePath": "build\\MuhmadOmarHajHamdo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MuhmadOmarHajHamdo.props",
+      "PackagePath": "buildMultiTargeting\\MuhmadOmarHajHamdo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MuhmadOmarHajHamdo.props",
+      "PackagePath": "buildTransitive\\MuhmadOmarHajHamdo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
