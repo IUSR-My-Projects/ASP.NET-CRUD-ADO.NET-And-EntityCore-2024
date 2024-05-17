@@ -26,12 +26,52 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = R:\NewProjects\RiderProjects\MuhmadOmarHajHamdo\MuhmadOmarHajHamdo
 build_property._RazorSourceGeneratorDebug = 
 
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Salary/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Salary/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Salary/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Salary/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Salary/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Shared/Error.cshtml]

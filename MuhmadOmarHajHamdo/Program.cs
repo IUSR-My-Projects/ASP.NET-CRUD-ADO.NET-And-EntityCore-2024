@@ -1,7 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using MuhmadOmarHajHamdo.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 // Server=localhost;Database=MuhmadOmar;Trusted_Connection=True;
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//  DbContext
+builder.Services.AddDbContext<MyDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MuhmadOmarHajHamdoContext")));
 
 var app = builder.Build();
 
