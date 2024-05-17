@@ -69,7 +69,7 @@ public class EmployeeRepository
         {
             using SqlCommand sqlCommand =
                 new SqlCommand(
-                    "INSERT INTO Employees (Name, BirthYear, PhoneNumber) VALUES (@Name, @BirthYear, @PhoneNumber)",
+                    "INSERT INTO Employees ([Name], [BirthYear], [PhoneNumber]) VALUES (@Name, @BirthYear, @PhoneNumber)",
                     GlobalVariables.SqlConnection);
             sqlCommand.Parameters.AddWithValue("@Name", employee.Name);
             sqlCommand.Parameters.AddWithValue("@BirthYear", employee.BirthYear);
