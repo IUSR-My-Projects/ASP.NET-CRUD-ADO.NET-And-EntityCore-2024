@@ -6,7 +6,7 @@ using MuhmadOmarHajHamdo.Models.Repositories;
 
 namespace MuhmadOmarHajHamdo.Models;
 
-public class Employee(int id, string name, DateTime birthYear, string phoneNumber)
+public class Employee(int id, string name, string birthYear, string phoneNumber)
 {
     [Key, IntegerValidator] public int Id { get; set; } = id;
 
@@ -14,7 +14,7 @@ public class Employee(int id, string name, DateTime birthYear, string phoneNumbe
     public string Name { get; set; } = name;
 
     [NotNull, Required(ErrorMessage = "هذا الحقل مطلوب")]
-    public DateTime BirthYear { get; set; } = birthYear;
+    public string BirthYear { get; set; } = birthYear;
 
     [MaxLength(20, ErrorMessage = "أقصى حد 20"), UniquePhoneNumber]
     public string PhoneNumber { get; set; } = phoneNumber;

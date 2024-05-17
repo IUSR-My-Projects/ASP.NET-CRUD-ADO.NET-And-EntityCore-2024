@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices.JavaScript;
 using Microsoft.AspNetCore.Mvc;
 using MuhmadOmarHajHamdo.Models;
 using MuhmadOmarHajHamdo.Models.Repositories;
@@ -41,6 +42,7 @@ namespace MuhmadOmarHajHamdo.Controllers
         {
             try
             {
+                _employeeRepo.CreateEmployee(collection);
                 return RedirectToAction(nameof(Index));
             }
             catch

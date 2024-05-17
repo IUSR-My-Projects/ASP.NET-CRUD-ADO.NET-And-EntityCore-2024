@@ -27,6 +27,7 @@ public class EmployeeRepository
      */
     public List<Employee> GetAllEmployees()
     {
+        Employees.Clear();
         try
         {
             using SqlCommand sqlCommand = new SqlCommand("SELECT * FROM Employees", GlobalVariables.SqlConnection);
@@ -58,10 +59,50 @@ public class EmployeeRepository
     }
 
 
+    /**
+     * Add Employee to database
+     */
+    public void CreateEmployee(IFormCollection collection)
+    {
+        Employee employee = _ConvertCollectionToEmployee(collection);
+        try
+        {
+            using SqlCommand sqlCommand =
+                new SqlCommand(
+                    "INSERT INTO Employees (Name, BirthYear, PhoneNumber) VALUES (@Name, @BirthYear, @PhoneNumber)",
+                    GlobalVariables.SqlConnection);
+            sqlCommand.Parameters.AddWithValue("@Name", employee.Name);
+            sqlCommand.Parameters.AddWithValue("@BirthYear", employee.BirthYear);
+            sqlCommand.Parameters.AddWithValue("@PhoneNumber", employee.PhoneNumber);
+            GlobalVariables.SqlConnection.Open();
+            sqlCommand.ExecuteNonQuery();
+            Employees.Add(employee);
+        }
+        catch (Exception ex)
+        {
+            throw new Exception("Error from CreateEmployee", ex);
+        }
+        finally
+        {
+            GlobalVariables.SqlConnection.Close();
+        }
+    }
+
+
     private Employee _ConvertDataReaderToEmployee(SqlDataReader sqlDataReader)
     {
         return new Employee((int)sqlDataReader["Id"], (string)sqlDataReader["Name"],
-            (DateTime)sqlDataReader["BirthYear"],
+            (string)sqlDataReader["BirthYear"],
             (string)sqlDataReader["PhoneNumber"]);
+    }
+
+
+    private Employee _ConvertCollectionToEmployee(IFormCollection collection)
+    {
+        string name = collection["Name"];
+        string birthYear = collection["BirthYear"];
+        string phoneNumber = collection["PhoneNumber"];
+
+        return new Employee(id: 0, name: name, birthYear: birthYear, phoneNumber: phoneNumber);
     }
 }
