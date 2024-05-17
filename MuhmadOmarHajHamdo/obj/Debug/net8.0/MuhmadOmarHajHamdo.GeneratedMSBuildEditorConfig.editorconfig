@@ -26,46 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = R:\NewProjects\RiderProjects\MuhmadOmarHajHamdo\MuhmadOmarHajHamdo
 build_property._RazorSourceGeneratorDebug = 
 
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Category/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Category/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Employee/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [R:/NewProjects/RiderProjects/MuhmadOmarHajHamdo/MuhmadOmarHajHamdo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

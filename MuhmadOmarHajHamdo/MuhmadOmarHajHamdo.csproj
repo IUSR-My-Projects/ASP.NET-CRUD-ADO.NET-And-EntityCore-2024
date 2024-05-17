@@ -32,4 +32,17 @@
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore" Version="8.0.2"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <_ContentIncludedByDefault Remove="Views\Category\Create.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Category\Delete.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Category\Details.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Category\Edit.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Category\Index.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Employee\Create.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Employee\Delete.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Employee\Details.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Employee\Edit.cshtml"/>
+        <_ContentIncludedByDefault Remove="Views\Employee\Index.cshtml"/>
+    </ItemGroup>
+
 </Project>
