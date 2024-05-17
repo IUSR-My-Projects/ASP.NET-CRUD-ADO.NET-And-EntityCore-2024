@@ -1,0 +1,6 @@
+﻿services:
+  muhmadomarhajhamdo:
+    image: muhmadomarhajhamdo
+    build:
+      context: .
+      dockerfile: MuhmadOmarHajHamdo/Dockerfile
