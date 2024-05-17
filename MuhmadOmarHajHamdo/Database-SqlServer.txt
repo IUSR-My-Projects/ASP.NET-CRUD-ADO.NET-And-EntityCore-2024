@@ -1,0 +1,44 @@
+create database MuhmadOmar
+go
+
+grant connect on database :: MuhmadOmar to dbo
+go
+
+grant view any column encryption key definition, view any column master key definition on database :: MuhmadOmar to [public]
+go
+
+create table dbo.employees
+(
+    Id          int identity
+        constraint Id
+            primary key,
+    Name        varchar(100) not null
+        unique,
+    BirthYear   varchar(100) not null,
+    PhoneNumber varchar(20)
+        unique
+)
+go
+
+create table dbo.salaries
+(
+    Id     int identity
+        primary key,
+    Mount  float not null,
+    Month  int   not null
+        check ([Month] < 13),
+    Year   int   not null,
+    UserId int   not null
+        constraint employeeId__fk
+            references dbo.employees
+)
+go
+
+create table dbo.tests
+(
+    column_name int not null
+        constraint tests_pk
+            primary key
+)
+go
+
