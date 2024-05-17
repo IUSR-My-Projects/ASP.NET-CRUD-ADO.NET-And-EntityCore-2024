@@ -4,6 +4,8 @@ namespace MuhmadOmarHajHamdo.Models.Repositories;
 
 public class EmployeeRepository
 {
+    public static List<Employee> Employees = new List<Employee>();
+
     public bool CheckUniquePhoneNumber(string phoneNumber)
     {
         SqlCommand sqlCommand = new SqlCommand("SELECT count(*) FROM Employees WHERE PhoneNumber = @PhoneNumber");
@@ -25,7 +27,6 @@ public class EmployeeRepository
      */
     public List<Employee> GetAllEmployees()
     {
-        List<Employee> employees = new List<Employee>();
         try
         {
             using SqlCommand sqlCommand = new SqlCommand("SELECT * FROM Employees", GlobalVariables.SqlConnection);
@@ -33,7 +34,7 @@ public class EmployeeRepository
             using SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
             while (sqlDataReader.Read())
             {
-                employees.Add(_ConvertDataReaderToEmployee(sqlDataReader));
+                Employees.Add(_ConvertDataReaderToEmployee(sqlDataReader));
             }
         }
         catch (Exception ex)
@@ -45,7 +46,7 @@ public class EmployeeRepository
             GlobalVariables.SqlConnection.Close();
         }
 
-        return employees;
+        return Employees;
     }
 
     /**
@@ -53,29 +54,7 @@ public class EmployeeRepository
      */
     public Employee? GetEmployeeById(int id)
     {
-        Employee employee = null;
-        try
-        {
-            using SqlCommand sqlCommand =
-                new SqlCommand("SELECT * FROM Employees WHERE Id = @Id", GlobalVariables.SqlConnection);
-            sqlCommand.Parameters.AddWithValue("@Id", id);
-            GlobalVariables.SqlConnection.Open();
-            using SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
-            while (sqlDataReader.Read())
-            {
-                employee = _ConvertDataReaderToEmployee(sqlDataReader);
-            }
-
-            return employee;
-        }
-        catch (Exception ex)
-        {
-            throw new Exception("Error from GetEmployeeById", ex);
-        }
-        finally
-        {
-            GlobalVariables.SqlConnection.Close();
-        }
+        return Employees.Find(e => e.Id == id);
     }
 
 

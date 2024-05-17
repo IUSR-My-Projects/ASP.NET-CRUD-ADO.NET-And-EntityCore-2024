@@ -12,8 +12,8 @@ namespace MuhmadOmarHajHamdo.Controllers
         public ActionResult Index()
         {
             // Get all employees from a database
-            List<Employee> employees = _employeeRepo.GetAllEmployees();
-            return View(employees);
+            _employeeRepo.GetAllEmployees();
+            return View(EmployeeRepository.Employees);
         }
 
         // GET: EmployeeController/Details/5
